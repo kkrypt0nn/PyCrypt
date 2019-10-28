@@ -1,0 +1,6 @@
+/.idea/*
+/__pycache__/*
+/pycrypt/__pycache__/*
+/py_crypt.egg-info/*
+/dist/*
+/build/*
