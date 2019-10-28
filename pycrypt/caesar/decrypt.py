@@ -1,4 +1,10 @@
 def decrypt(message : str, key : int):
+    """
+    Decrypts a message in the caesar cipher with a given key
+    :param: message String - The message that should be decrypted
+    :param: key Integer - The key that has to be used to decrypted the message
+    :return: decryptedMessage String - Returns the decrypted message
+    """
     if (message == ''):
         print("[ERROR] The message cannot be empty")
         return
@@ -6,7 +12,7 @@ def decrypt(message : str, key : int):
         print("[ERROR] The key cannot be higher than 26 or less than 1")
         return
     else:
-        encryptedMessage = ''
+        decryptedMessage = ''
         key = -key
         for character in message:
             if (character.isalpha()):
@@ -22,7 +28,7 @@ def decrypt(message : str, key : int):
                         number -= 26
                     elif number < ord('a'):
                         number += 26
-                encryptedMessage += chr(number)
+                decryptedMessage += chr(number)
             else:
-                encryptedMessage += character
-        return encryptedMessage
+                decryptedMessage += character
+        return decryptedMessage

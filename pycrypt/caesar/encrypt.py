@@ -1,4 +1,10 @@
 def encrypt(message : str, key : int):
+    """
+    Encrypts a message in the caesar cipher with a given key
+    :param: message String - The message that should be encrypted
+    :param: key Integer - The key that has to be used to encrypt the message
+    :return: encryptedMessage String - Returns the encrypted message
+    """
     if (message == ''):
         print("[ERROR] The message cannot be empty")
         return
