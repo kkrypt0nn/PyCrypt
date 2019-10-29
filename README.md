@@ -1,3 +1,7 @@
+<p align="center">
+  <img width="170" height="170" src="https://raw.githubusercontent.com/kkrypt0nn/PyCrypt/master/logo.png">
+</p>
+
 # PyCrypt
 [![Build Status](https://travis-ci.org/kkrypt0nn/PyCrypt.svg?branch=master)](https://travis-ci.org/kkrypt0nn/PyCrypt) [![Python Versions](https://img.shields.io/badge/python-3.7%20%7C%203.8-orange)](https://pypi.org/project/py-crypt)  [![PyPi Versions](https://img.shields.io/badge/pypi-v1.0.0-blue)](https://pypi.org/project/py-crypt) 
 
