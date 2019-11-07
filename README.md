@@ -3,7 +3,7 @@
 </p>
 
 # PyCrypt
-[![Build Status](https://travis-ci.org/kkrypt0nn/PyCrypt.svg?branch=master)](https://travis-ci.org/kkrypt0nn/PyCrypt) [![Python Versions](https://img.shields.io/badge/python-3.7%20%7C%203.8-orange)](https://pypi.org/project/py-crypt)  [![PyPi Versions](https://img.shields.io/badge/pypi-v1.0.0-blue)](https://pypi.org/project/py-crypt) 
+[![Build Status](https://travis-ci.org/kkrypt0nn/PyCrypt.svg?branch=master)](https://travis-ci.org/kkrypt0nn/PyCrypt) [![Python Versions](https://img.shields.io/badge/python-3.5%20%7C%203.6%20%7C%203.7%20%7C%203.8-orange)](https://pypi.org/project/py-crypt)  [![PyPi Versions](https://img.shields.io/badge/pypi-v1.1.0-blue)](https://pypi.org/project/py-crypt) 
 
 PyCrypt is a easy to use python library to let everyone encrypt, decrypt and decode messages.
 

@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="py-crypt",
-    version="1.0.0",
+    version="1.1.0",
     author="Krypton",
     author_email="kkrypt0nn@national.shitposting.agency",
     description="PyCrypt is a easy to use python library to let everyone encrypt, decrypt and decode messages.",
@@ -13,7 +13,7 @@ setuptools.setup(
     long_description_content_type="text/markdown",
     url="https://github.com/kkrypt0nn/PyCrypt",
     packages=setuptools.find_packages(),
-    python_requires='>=3.7',
+    python_requires='>=3.5',
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: Apache Software License",

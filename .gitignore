@@ -5,3 +5,5 @@
 /dist/*
 /build/*
 logo.png
+/pycrypt/caesar/__pycache__/*
+/pycrypt/vigenere/__pycache__/*
